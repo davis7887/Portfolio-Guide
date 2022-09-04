@@ -23,7 +23,7 @@ Libraries: tidyverse, dplyr, ggplot2, lubridate
 
 | Project Name | Skills | Description | Libraries |    
 |---|---|---|---|
-| Google Data Analytics Capstone - Bellabeat Fitness Tracker Case Study |   Data cleaning, wrangling, and visualization | Analysis of Bellabeat's user fitness tracker data to determine what patterns and trends exist and how these will effect future marketing strategies. | tidyverse, dplyr, ggplot2, lubridate |   
+| [Google Data Analytics Capstone - Bellabeat Fitness Tracker Case Study](https://github.com/davis7887/Google-Data-Analytics-Capstone) |   Data cleaning, wrangling, and visualization | Analysis of Bellabeat's user fitness tracker data to determine what patterns and trends exist and how these will effect future marketing strategies. | tidyverse, dplyr, ggplot2, lubridate |   
 
 ***
 
