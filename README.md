@@ -18,9 +18,26 @@ _Click on the project titles in BLUE to view each project!_
 
 # R
 
-Skills: Data cleaning, wrangling, visualisation, analysis
+Skills:
 Libraries: tidyverse, dplyr, ggplot2, lubridate
 
 | Project Name | Skills | Description | Libraries |    
 |---|---|---|---|
 | [Google Data Analytics Capstone - Bellabeat Fitness Tracker Case Study](https://www.kaggle.com/code/danid7878/bellabeat-case-study) |   Data cleaning, wrangling, and visualization | Analysis of Bellabeat's user fitness tracker data to determine what patterns and trends exist and how these will effect future marketing strategies. | tidyverse, dplyr, ggplot2, lubridate |   
+
+***
+
+# SQL
+
+Level:
+Functions:
+
+
+***
+
+# Tableau
+
+| Project Name | Description | Dashboard |
+|---|---|---|
+| AllTrails US Hiking Guide | A project inspired from my love of finding beautiful hikes, I analyzed data gathered from AllTrails to determine the top hikes in the United States based on overall ratings as well as by features included in the hikes. I also analyzed the concentrations of difficult and easy hikes by state. | [Link](https://public.tableau.com/views/USAlltrailsHikingGuide/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) |
+
