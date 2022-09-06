@@ -32,6 +32,9 @@ Libraries: tidyverse, dplyr, ggplot2, lubridate
 Level:
 Functions:
 
+| Project Name | Description | Functions |
+|---|---|---|
+| [AllTrails US Hiking Guide](https://github.com/davis7887/AllTrails-US-Hiking-Guide) | A project inspired from my love of finding beautiful hikes, I analyzed data gathered from AllTrails to determine the top hikes in the United States based on overall ratings as well as by features included in the hikes. I also analyzed the concentrations of difficult and easy hikes by state. | Aggregations, Group/Order By, Limit, Temporary Tables | 
 
 ***
 
