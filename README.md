@@ -35,7 +35,7 @@ Functions:
 | Project Name | Description | Functions |
 |---|---|---|
 | [AllTrails US Hiking Guide](https://github.com/davis7887/AllTrails-US-Hiking-Guide) | A project inspired from my love of finding beautiful hikes, I analyzed data gathered from AllTrails to determine the top hikes in the United States based on overall ratings as well as by features included in the hikes. I also analyzed the concentrations of difficult and easy hikes by state. | Aggregations, Group/Order By, Limit, Temporary Tables | 
-
+| [COVID-19 Analysis on USA outbound International Travel](https://github.com/davis7887/COVID-19-Analysis) | Inspired by Alex The Analyst's [COVID-19 project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), this analysis tracks the amount of covid cases, vaccinations, and USA international travel outbound departures from 2019-2022. | Aggregate Functions, Joins, CTE's, Temporary Tables and Creating Views. |
 ***
 
 # Tableau
